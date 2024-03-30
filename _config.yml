@@ -3,7 +3,7 @@ title: 1000daysiamhappy
 email: ""
 description: "Photo Journal"
 url: "https://1000daysiamhappy.github.io"
-baseurl: "/"
+baseurl: "/1000daysiamhappy.github.io"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://1000daysiamhappy.github.io/gallery/"  
-  - JOURNAL: "https://1000daysiamhappy.github.io/journal/"
-  - ABOUT: "https://1000daysiamhappy.github.io/about/"
+  - GALLERY: "https://1000daysiamhappy.github.io/1000daysiamhappy.github.io/gallery/"  
+  - JOURNAL: "https://1000daysiamhappy.github.io/1000daysiamhappy.github.io/journal/"
+  - ABOUT: "https://1000daysiamhappy.github.io/1000daysiamhappy.github.io/about/"
 
 # All translation keys
 translations:
