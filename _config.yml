@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://1000daysiamhappy.github.io/photorama/gallery/"  
-  - JOURNAL: "https://1000daysiamhappy.github.io/photorama/journal/"
-  - ABOUT: "https://1000daysiamhappy.github.io/photorama/about/"
+  - GALLERY: "https://1000daysiamhappy.github.io/gallery/"  
+  - JOURNAL: "https://1000daysiamhappy.github.io/journal/"
+  - ABOUT: "https://1000daysiamhappy.github.io/about/"
 
 # All translation keys
 translations:
