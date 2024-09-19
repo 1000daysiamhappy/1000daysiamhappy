@@ -8,7 +8,7 @@ image:
 date: "2024-04-21"
 header-img: "img/postcover/nostalgia.png"
 comments: "true"
-gallery2: 
+gallery1: 
   - image_path: /img/galleries/g02/bg1.png
     image-caption: IMAGE TITLE
     image-copyright: © photorama
