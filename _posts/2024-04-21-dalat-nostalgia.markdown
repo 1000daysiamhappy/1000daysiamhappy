@@ -4,9 +4,9 @@ title: "Nostalgia"
 subtitle: 
 active: "journal"
 image:
-  feature: "nostalgia.jpg"
+  feature: "nostalgia.png"
 date: "2024-04-21"
-header-img: "img/postcover/nostalgia.jpg"
+header-img: "img/postcover/nostalgia.png"
 comments: "true"
 gallery2: 
   - image_path: /img/galleries/g02/bg1.png
